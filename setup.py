@@ -9,7 +9,7 @@ classifiers = [
 
 setup(
     name = "iijdns",
-    version = "0.0.1",
+    version = "0.0.2",
     packages=['iijdns'],
     author = "samuraitaiga",
     author_email = "samuraitaiga@gmail.com",
@@ -17,6 +17,7 @@ setup(
     keywords=['iij','dns'],
     classifiers=classifiers,
     license = "MIT",
+    install_requires = ['PyYAML==3.11', 'urllib3==1.10'],
     url = "https://github.com/samuraitaiga/python-iij-dns",
 )
 
