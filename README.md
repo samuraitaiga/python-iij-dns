@@ -19,7 +19,6 @@ python library which can easily manage [IIJ DNS Service API](http://manual.iij.j
 ```
 
 ## Example
-- sample of ntp updates
 ```python
 ACCESS_KEY = 'XXXXXXX'
 SECRET_KEY = 'YYYYYYY'
