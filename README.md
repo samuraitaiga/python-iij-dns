@@ -4,7 +4,7 @@ python library which can easily manage [IIJ DNS Service API](http://manual.iij.j
 ## Note
  - currently supports only
    - [get all zones](http://manual.iij.jp/dns/doapi/754466.html "GET ZONES")
-   - [get record in specific zone](http://manual.iij.jp/dns/doapi/754503.html "GET RECORD)
+   - [get record in specific zone](http://manual.iij.jp/dns/doapi/754503.html "GET RECORD")
 
 ## required
  - python 2.7+
