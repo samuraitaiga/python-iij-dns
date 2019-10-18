@@ -17,7 +17,7 @@ setup(
     keywords=['iij','dns'],
     classifiers=classifiers,
     license = "MIT",
-    install_requires = ['PyYAML==3.11', 'urllib3==1.10'],
+    install_requires = ['PyYAML==3.11', 'urllib3==1.24.2'],
     url = "https://github.com/samuraitaiga/python-iij-dns",
 )
 
